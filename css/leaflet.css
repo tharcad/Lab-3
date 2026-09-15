@@ -286,7 +286,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	border-radius: 4px;
 	}
 .leaflet-bar a {
-	background-color: #fff;
+	background-color: #f3f3f3;
 	border-bottom: 1px solid #ccc;
 	width: 26px;
 	height: 26px;
